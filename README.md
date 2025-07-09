@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Привет, я Алексей Моисейцев 
+### Frontend разработчик из Владивостока
 
-<!--
-**ShinQWE/ShinQWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram)](https://t.me/shinobichan)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:moisejcevaleksej4@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShinQWE)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+const aboutMe = {
+  motivation: "Создаю продукты, которые делают жизнь пользователей проще",
+  approach: "Четкость, модульность кода и соблюдение сроков",
+  education: "МГУ им. Адмирала Г.И. Невельского (Информатика и вычислительная техника)",
+  courses: "Яндекс Практикум (FullStack разработчик)"
+};
