@@ -1,4 +1,4 @@
-# 👋 Привет, я Алексей Моисейцев 
+# 👋 Привет, я Алексей  
 ### Frontend разработчик из Владивостока
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram)](https://t.me/shinobichan)
